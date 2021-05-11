@@ -1,6 +1,12 @@
 
 # Conclusion #
 
+
+<p align="center">
+ <img src="https://github.com/bristolcs828/Project-Account/blob/main/report/Conclusion/write-a-conclusion.jpg" width="800">
+</p>
+
+
 ## Working Practices ##
 
 The cooperation project is very challenging. Different positions are assigned to each person, so that everyone can realize their own value in this cooperation project. At almost every ZOOM meeting, valuable ideas are presented. In general, almost everyone can participate in the meeting at this time. There are 5 people working together on the project, and occasionally 4 people will discuss it, because if there is no procedural problem, we don't require programmers who are working on code tasks to attend. In the collaboration phase, the product planners and UX designers are primarily responsible for communicating project details.
