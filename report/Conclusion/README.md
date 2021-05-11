@@ -3,21 +3,65 @@
 
 ![write0](https://github.com/bristolcs828/Project-Account/blob/main/report/Conclusion/write0.jpeg)
 
-## Working practices ##
 
-The cooperation project is very challenging. Different positions are assigned to each person, so that everyone can realize their own value in this cooperation project. At almost every ZOOM meeting, valuable ideas are presented. In general, almost everyone can participate in the meeting at this time. There are 5 people working together on the project, and occasionally 4 people will discuss it, because if there is no procedural problem, we don't require programmers who are working on code tasks to attend. In the collaboration phase, the product planners and UX designers are primarily responsible for communicating project details.
+## Working practices
 
-## Reflective discussion of the success of the project
+### General working practices
 
-This project is very useful, in fact, its usefulness is far higher than its playability. After we completed the basic functions of the project, we communicated with TA with the project demo and the computer professor, and they put forward suggestions to strengthen the playability of the project, the purpose of which was to make the project more interesting. So we designed more gamification elements to optimize the project.
+For this team project, we assigned 5 different positions to design and develop the project, so that everyone could give full play to his/her strengths in this project and present it as a whole.
 
-## Impact of COVID-19 on the project
+In the beginning, we would ask everyone to express their own role in the team project, and let each member express their own ideas and rationalize the assignment of tasks. So in addition to the most efficient output each member can be knowledge, it is also very convenient for management, unified allocation as a result of the guarantee everyone's schedule, make the project in the later can be a perfect fit, such as the late finish the whole project, our thinking will be more clear, repetitive tasks will reduce a lot. 
 
-Have to say, this year is a special year, because of the effect of COVID - 19, the obstacles for our cooperation, we can only through the remote, and some classmates in the domestic, whether the network or the jet lag reason, more or less for the projects have a certain negative impact, but all of these can be overcome. The most important thing is that when we have some doubts about the project, we cannot directly communicate with the professor in time, which will undoubtedly affect the progress of our project.
+Therefore, after we learned the overview of software tools, the use of Git and GitHub can help our team complete such a unification process very well. We set up several warehouses, and keep on the main branch, the member can access specific warehouse and file, and without the limitation of time and place, so the work time, each member has noninterference, members can improve the utilization rate of concentration and time, to ensure the normal operation of between all parts of the whole project.
 
-## Discussion of social and ethical implications
+### Management of issues
 
-Our project can be understood as electronic accounting software. And each man as an individual life in society, and society can produce all kinds of contact, consumer behavior will actually and complex, and in addition to the accounting software, no one can be responsible for their behavior, especially a free of charge to an account software, the software itself is given priority to with easy operation and convenient, easy to operate features significantly expand the scope of application, For teenagers and middle-aged people, it's actually pretty easy to get used to most of the new software. But for very young children or the elderly, convenience is also an important advantage. Once people have the habit of keeping accounts, then he will certainly have a bigger picture of their investment and spending, more able to achieve reasonable management of their own funds, enhance financial awareness.
+At the beginning, when I encountered such a task requiring multiple people to cooperate, I did encounter some problems, for example, many people were familiar with the same occupation and wanted to assume this position. After all, every member wants to maximize his value. Here is mainly about the position of the back end. 
+
+In consideration of the development of the back end, our group discussed to divide the tasks of the back end into several small tasks. We want the overall project to have some characteristics, some unique and interesting elements, so we can collect more information of this kind, how to code the game elements or interesting interaction elements, to achieve good performance, which is very necessary for a project, no one likes to use a very rigid thing. Finally, after the implementation of the basic logic code, the implementation of interesting elements will be carried out. At this time, the programmer who checked more information and finished the docking is completed. Everything is more reasonable, and it can also well show the attraction of the project.
+
+We arranged a lot of meetings for communication, and in every meeting, almost every valuable idea was put forward. In general, almost everyone can participate in the meeting at this time. There are 5 people working together on the project, and occasionally 4 people will discuss it, because if there is no procedural problem, we don't require programmers who are working on code tasks to attend. In the collaboration phase, the product planners and UX designers are primarily responsible for communicating project details.
+
+<p align="center">
+ <img src="https://github.com/bristolcs828/Project-Account/blob/main/report/Conclusion/veer-139692202.jpg" width="400">
+</p>
+
+### Evaluation of agile techniques 
+
+In terms of technology assessment, the first thing that needs to be mentioned is the group working method of the iterative model. We mainly identified three directions of agile, which are as follows:
+
+1.Profit. This allows you to consider each possible increase in stakeholder needs and make appropriate modifications.
+
+2.Flexibility. When making relevant changes, it will not be too complicated, because each iteration model will ensure the certainty of ideas and reduce the negative impact caused by the final uncertainty
+
+3.Efficiency. This group method can significantly reduce the cost of time loss caused by large changes in the later stage.
+
+In addition, we set six ZOOM sprint meetings, each of which summarized the problems of the last meeting, and then arranged the tasks for everyone to perform in this meeting. When there were questions or uncertainties, we also consulted the professor and the teaching assistant to determine whether this idea was feasible in the team project.
+
+## Project reflection
+
+This project is a big challenge for every member of our team. Our project is an accounting application. At first, the usefulness of it is higher than its gameplay, we did not consider the reward system at the outset, without considering the realization of the game elements, after we finished the basic function of the project, we use the demo project and a professor in the school of computer and TA TA for communication, they put forward a proposal for strengthening project gameplay, The purpose of this advice is to make the project more interesting. So we designed more gamification elements to optimize the project. 
+
+
+## Impact of COVID-19 on working practices
+
+In general, this is a special year, because COVID-19 has hindered our cooperation, I mean we can't have heated discussion in a studio, we can only do it by remote, and some students are in China, no matter it is due to the network or the time difference. All of them had negative effects on the progress of the project more or less. Fortunately, all of them were actively faced with these problems, and every member was able to overcome the influence factors brought by the environment.
+
+In addition, if we have problems that we can't solve, we will actively seek help. COVID-19 did not hinder the professor and TA from answering questions to us, and we can get a lot of suggestions from it to optimize our team project and make it more perfect.
+
+
+## Discussion of Social and Ethical implications of our work
+
+Our project can be understood as electronic accounting software. And each man as an individual life in society, and society can produce all kinds of contact, consumer behavior will actually and complex, and in addition to the accounting software, no one can be responsible for their behavior, especially a free of charge to an account software, the software itself is given priority to with easy operation and convenient, easy to operate features significantly expand the scope of application, For teenagers and middle-aged people, it's actually pretty easy to get used to most of the new software. But for very young children or the elderly, convenience is also an important advantage. Once people have the habit of keeping accounts, then he will certainly have a bigger picture of their investment and spending, more able to achieve reasonable management of their own funds, enhance financial awareness. Here are some important points to consider:
+
+### 1. The project application needs to be accessible to as many people as possible
+
+Initially, we designed this software for the majority of people. In fact, financial management is of great significance to people, so this bookkeeping application can help people develop this ability. We designed the app to be as simple and easy to use as possible, to make sure that no one who uses it finds it too complicated.
+
+### 2. Reduce people's stress and anxiety
+
+So far, the social development faster and faster, people are busy with their work, every time want to in such cases to record their own spending and consumption, it is very difficult, we hope we can make the project application of this matter become more simple, indirect every busy people to reduce their stress and anxiety.
+
 
 ## Future work（Design, development, evaluation） ## 
 
