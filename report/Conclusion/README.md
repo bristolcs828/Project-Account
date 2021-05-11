@@ -30,7 +30,7 @@ We arranged a lot of meetings for communication, and in every meeting, almost ev
 
 In terms of technology assessment, the first thing that needs to be mentioned is the group working method of the iterative model. We mainly identified three directions of agile, which are as follows:
 
-1.Profit. This allows you to consider each possible increase in stakeholder needs and make appropriate modifications.
+1.Interest relevance. This allows you to consider each possible increase in stakeholder needs and make appropriate modifications.
 
 2.Flexibility. When making relevant changes, it will not be too complicated, because each iteration model will ensure the certainty of ideas and reduce the negative impact caused by the final uncertainty
 
@@ -50,7 +50,7 @@ In general, this is a special year, because COVID-19 has hindered our cooperatio
 In addition, if we have problems that we can't solve, we will actively seek help. COVID-19 did not hinder the professor and TA from answering questions to us, and we can get a lot of suggestions from it to optimize our team project and make it more perfect.
 
 
-## Discussion of Social and Ethical implications of our work
+## Discussion of social and ethical implications of our work
 
 Our project can be understood as electronic accounting software. And each man as an individual life in society, and society can produce all kinds of contact, consumer behavior will actually and complex, and in addition to the accounting software, no one can be responsible for their behavior, especially a free of charge to an account software, the software itself is given priority to with easy operation and convenient, easy to operate features significantly expand the scope of application, For teenagers and middle-aged people, it's actually pretty easy to get used to most of the new software. But for very young children or the elderly, convenience is also an important advantage. Once people have the habit of keeping accounts, then he will certainly have a bigger picture of their investment and spending, more able to achieve reasonable management of their own funds, enhance financial awareness. Here are some important points to consider:
 
@@ -92,7 +92,6 @@ The first value of accounting software is to cultivate people's financial awaren
 </p>
 
 Finally, the accounting software has the function of browsing history records. In the label of STATISTICS, everyone can review the details of each expenditure in the label established by himself and see the expenditure funds of multiple parts in the label.
-
 
 
 
