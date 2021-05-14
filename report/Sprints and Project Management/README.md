@@ -94,6 +94,10 @@ At the beginning of the project, which is the preliminary development stage of b
 
 Each member of our team runs a feature branch independently and will push it to git repository regularly. After team members update their feature branch, they will merge into the Develop branch. Before each merge, they will pull request and report to the project experience in the TEAMS meeting. Each team member will send a request to inform the rest of the team and invite others to participate when they find the problem has changed. So every member of our team was involved in every iteration and change of the project module. Finally, after each module is mostly complete, the Develop content is merged into the master branch as a temporary result.
 
+<p align="center">
+ <img src="https://github.com/bristolcs828/Project-Account/blob/main/report/Sprints%20and%20Project%20Management/git%20picture.png" width="720">
+</p>
+
 In addition, we had to give permissions to each programmer separately, which was the most convenient for programmers to use in terms of convenience. There are mainly three repository, including the front-end repository, the back-end warehouse and the project-account repository (which contains the flow chart, mind map and README file).
 
 Git continuous integration and continuous deployment on the whole mainly involves the basic Git commands, including Git clone, Git add, Git commit, Git push, etc., through the basic Git commands to complete the deployment of project code.
