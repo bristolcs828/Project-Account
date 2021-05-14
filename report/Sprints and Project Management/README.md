@@ -4,7 +4,7 @@ For the management of this cooperative project, we chose the group working metho
 
 
 <p align="center">
- <img src="https://github.com/bristolcs828/Project-Account/blob/main/report/Sprints%20and%20Project%20Management/sp-and-ma-1.jpg" width="600" height="410">
+ <img src="https://github.com/bristolcs828/Project-Account/blob/main/report/Sprints%20and%20Project%20Management/sp-and-ma-1.jpg" width="700" height="500">
 </p>
 
 
@@ -54,7 +54,7 @@ About the team project, we are the number of 17 team, we made a schedule, and in
 
 
 <p align="center">
- <img src="https://github.com/bristolcs828/Project-Account/blob/main/report/Sprints%20and%20Project%20Management/lcomp.gif" width="500">
+ <img src="https://github.com/bristolcs828/Project-Account/blob/main/report/Sprints%20and%20Project%20Management/lcomp.gif" width="600">
 </p>
 
 
