@@ -88,7 +88,13 @@ T8 event: After ZOOM's sixth meeting, I summarized the whole project, classified
 
 ### Continuous Integration/Deployment
 
-Our team set up a GitHub account. When creating the warehouse, we realized that there would be three people to upload at any time, so it was necessary to set it on the main branch. In addition, we had to give permissions to each programmer separately, which was the most convenient for programmers to use in terms of convenience. There are mainly three warehouses, including the front-end warehouse, the back-end warehouse and the project-account warehouse (which contains the flow chart, mind map and README file).
+Our team set up a GitHub account. When creating the repository, we realized that there would be three people to upload at any time, so it was necessary to set it on the main branch. Our group's git repository has three branches: master, develop, and test. Each branch plays an important role. 
+
+At the beginning of the project, which is the preliminary development stage of backend, front end and database design, we put the overall framework of each part on the Master and then entered the Agile work mode. This mode of work required us to iterate on and off the project based on the user's test experience and our own tests, adopting and discarving things we didn't need, so most of our development was done on the Develop and Feature branches after we went to Agile mode of work. Since Agile requires that each module work at the same time and the project iterations quickly, we basically develop on Develop, updating every detail on the Feature branch and doing the best we can. 
+
+Each member of our team runs a feature branch independently and will push it to git repository regularly. After team members update their feature branch, they will merge into the Develop branch. Before each merge, they will pull request and report to the project experience in the TEAMS meeting. Each team member will send a request to inform the rest of the team and invite others to participate when they find the problem has changed. So every member of our team was involved in every iteration and change of the project module. Finally, after each module is mostly complete, the Develop content is merged into the master branch as a temporary result.
+
+In addition, we had to give permissions to each programmer separately, which was the most convenient for programmers to use in terms of convenience. There are mainly three repository, including the front-end repository, the back-end warehouse and the project-account repository (which contains the flow chart, mind map and README file).
 
 Git continuous integration and continuous deployment on the whole mainly involves the basic Git commands, including Git clone, Git add, Git commit, Git push, etc., through the basic Git commands to complete the deployment of project code.
 
