@@ -27,7 +27,7 @@ When designing this software, our goal was to make every user financially sound,
 
 The whole software from initial market research, team members brainstorming, designing the app, back-end code, front-end code.
 
-During the market research phase, we investigated a large number of existing bookkeeping software in the market and analysed the ***advantages and disadvantages***, thus deciding that the goal of our software is to make users get used to and enjoy bookkeeping and achieve a healthy financial state by increasing their sense of achievement in bookkeeping.
+During the market research phase, we investigated a large number of existing bookkeeping software in the market and analysed the [advantages and disadvantages](https://github.com/ccar728/uob-gruopProject/blob/main/good_n_bad.md), thus deciding that the goal of our software is to make users get used to and enjoy bookkeeping and achieve a healthy financial state by increasing their sense of achievement in bookkeeping.
 
 The app has been designed with game elements to give users a sense of achievement in using it and thus develop a habit of bookkeeping. The app is designed with a medal system. The purpose of the badge system is to record the number of times a user has logged in. The first time a user logs in each day, they can check in and are given different badges according to the cumulative number of times they have checked in.
 
