@@ -5,7 +5,7 @@
 
 This app is deployed locally, on [this](https://github.com/ccar728/uob-gruopProject/blob/main/STEP_TO_RUN.md) page we will list the steps required to run this app.
 
-***[Here](https://www.youtube.com/watch?v=3WWqifwN0Xk) is a demonstration of the functionality of this app***： https://www.youtube.com/watch?v=3WWqifwN0Xk.
+***[Here](https://www.youtube.com/watch?v=KuUJMkvSZ3g) is a demonstration of the functionality of this app***： https://www.youtube.com/watch?v=KuUJMkvSZ3g.
 
 ### Product background and motication
 
