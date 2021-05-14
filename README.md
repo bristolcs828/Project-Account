@@ -54,7 +54,7 @@ In what follows, we will cover all aspects of our process of analysing and devel
 
 ##### 3. Project Evaluation
 
-##### 4. [Sprints & Project Management](https://github.com/ccar728/uob-gruopProject/blob/main/Sprints%20&%20Project%20Management.md)
+##### 4. [Sprints & Project Management](https://github.com/bristolcs828/Project-Account/tree/main/report/Sprints%20and%20Project%20Management)
 
 ##### 5. [Conclusion](https://github.com/bristolcs828/Project-Account/tree/main/report/Conclusion)
 
