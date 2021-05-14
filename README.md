@@ -52,7 +52,7 @@ In what follows, we will cover all aspects of our process of analysing and devel
 
 ##### 2. [UI / UX Design](https://github.com/ligangchn/UX-Design-of-Group-Project/blob/main/README.md)
 
-##### 3. Project Evaluation
+##### 3. [Project Evaluation](https://github.com/ccar728/uob-gruopProject/blob/main/Evaluation.md)
 
 ##### 4. [Sprints & Project Management](https://github.com/bristolcs828/Project-Account/tree/main/report/Sprints%20and%20Project%20Management)
 
