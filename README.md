@@ -63,7 +63,7 @@ In what follows, we will cover all aspects of our process of analysing and devel
 * [Gang Li](https://github.com/ligangchn): yy20944@bristol.ac.uk
 * Hengbin An: ld20859@bristol.ac.uk
 * [Peng Gao](https://github.com/Peng-1124): ck20447@bristol.ac.uk
-* [Weibang Tang]([ccar728 (Webb Tang) (github.com)](https://github.com/ccar728)): sq20243@bristol.ac.uk
+* [Weibang Tang](https://github.com/ccar728): sq20243@bristol.ac.uk
 * Zejia Liu: np20959@bristol.ac.uk
 
 
