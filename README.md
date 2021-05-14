@@ -1,10 +1,11 @@
 # Money Cat Life Accounting
+![LOGO](https://github.com/bristolcs828/Project-Account/blob/main/report/Conclusion/money%20cat.png)
 
 ### [How to run this App](https://github.com/ccar728/uob-gruopProject/blob/main/STEP_TO_RUN.md)
 
-This app is deployed locally, on this page we will list the steps required to run this app.
+This app is deployed locally, on [this](https://github.com/ccar728/uob-gruopProject/blob/main/STEP_TO_RUN.md) page we will list the steps required to run this app.
 
-***Here a demonstration of the functionality of this app***： xxxxxx
+***Here a demonstration of the functionality of this app***： youtube page.......
 
 ### Product background and motication
 
