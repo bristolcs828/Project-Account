@@ -70,8 +70,8 @@ In what follows, we will cover all aspects of our process of analysing and devel
 
 ### Build with
 
-* [React]([facebook/react: A declarative, efficient, and flexible JavaScript library for building user interfaces. (github.com)](https://github.com/facebook/react))
-* [MongoDB]([mongodb/mongo: The MongoDB Database (github.com)](https://github.com/mongodb/mongo))
+* [React](https://github.com/facebook/react)
+* [MongoDB](https://github.com/mongodb/mongo)
 
 
 
