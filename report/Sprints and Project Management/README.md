@@ -84,6 +84,8 @@ T7 event: After the fifth ZOOM meeting, the overall project was basically comple
 
 T8 event: After ZOOM's sixth meeting, I summarized the whole project, classified and supplemented the README document, uploaded all previous text documents, optimized the entire README document, and prepared to submit the team project task
 
+The following is a review of our Zoom meetings at six key points in time, and [here](https://shimo.im/sheets/C9Qk8y6hDyPVX3xw/MODOC/) are the minutes of our meetings.
+
 # Git and CI/CD
 
 ### Continuous Integration/Deployment
